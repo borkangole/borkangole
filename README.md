@@ -21,7 +21,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔭 Currently diving deep into **Dart** and mobile development
-- 💻 2+ years of experience with **C++**, **Java**, **PHP**, and **Python**
+- 💻 2+ years of experience with **C++**, **Java**, **PHP**, and a bit of **Python**
 - 📚 Always exploring new technologies and frameworks
 - 🎯 Passionate about building efficient and user-friendly applications
 - 🌱 Growing my skills one commit at a time
