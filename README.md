@@ -27,10 +27,8 @@
 - 🗺️ I build **GIS-powered systems and full-stack web apps** — mapping, analyzing, and visualizing real-world problems
 - ✅ **Thesis shipped:** LGU-SDSS, a Spatial Decision Support System for Philippine LGUs
 - 🏢 Web developer at **The Premier Property Group**, building their public website and internal portal
-- 💼 Taking on **freelance** full-stack projects
 - 🌐 Portfolio: **[mhel.site](https://mhel.site)**
-- ♟️ Chess player — every pawn can be a queen
-- ✅ Open to **job opportunities, freelance projects, and collaborations**
+- ♟️ Chess player — *"every pawn can be a queen"*
 
 <br clear="right"/>
 
@@ -176,7 +174,6 @@ const mhel = {
     "Coral Vision — on-device coral species ID 🪸",
     "TPPG Portal & Public Website — real estate platform 🏢",
   ],
-  openTo: ["Jobs", "Freelance projects", "Collaborations"],
 
   code: () => "Maps, code & decisions. 🚀",
   playChess: () => "Every pawn can be a queen. ♟️",
@@ -207,6 +204,6 @@ const mhel = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=borkangole&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-**⭐ From [borkangole](https://github.com/borkangole) | Open to collaboration and new opportunities**
+**⭐ From [borkangole](https://github.com/borkangole) | Always building, always learning**
 
 </div>
