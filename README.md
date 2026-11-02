@@ -1,6 +1,6 @@
 # Mhel Bustamante
 
-Software developer from Iloilo, Philippines. I build GIS-powered systems and apps that turn maps and data into decisions.
+Aspiring Software / AI Engineer from Iloilo, Philippines. I build GIS-powered systems and apps that turn maps and data into decisions, and I'm currently learning AI automation.
 
 [Portfolio](https://mhel.site) · [LinkedIn](https://www.linkedin.com/in/fazermb) · [Email](mailto:mhel.bustamante28@gmail.com) · [Resume](https://mhel.site/files/Mhel_Bustamante_Resume.pdf)
 
