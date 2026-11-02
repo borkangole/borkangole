@@ -14,7 +14,7 @@ Aspiring Software / AI Engineer from Iloilo, Philippines. I build GIS-powered sy
 
 ### Selected work
 
-**[LGU-SDSS](https://mhel.site/projects.html#sdss)** — Spatial decision support system for local governments. Social vulnerability, barangay capacity, and household hazard exposure from CBMS data, plus a k-modes household typology.<br>
+**[LGU-SDSS](https://mhel.site/projects.html#sdss)** — Spatial decision support system any municipality can use by uploading its own boundaries, hazard maps, and CBMS data. Maps social vulnerability, barangay capacity, and household hazard exposure, plus a k-modes household typology. Piloted in San Miguel, Iloilo.<br>
 <sub>React · Flask · Python · PostgreSQL / PostGIS · Leaflet</sub>
 
 **[Coral Vision](https://mhel.site/projects.html#coral-vision)** — Mobile app that identifies coral species on-device and geo-tags each find for reef monitoring.<br>
